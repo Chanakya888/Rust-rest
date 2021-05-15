@@ -1,5 +1,3 @@
-mod types;
-
 fn main() {
-    types::main()
+    println!("Hello, world!");
 }
