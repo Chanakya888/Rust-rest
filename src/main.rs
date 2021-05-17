@@ -1,5 +1,5 @@
-mod vectors;
+mod tuples;
 
 fn main() {
-    vectors::run()
+    tuples::run()
 }

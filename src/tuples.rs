@@ -1,6 +1,5 @@
 pub fn run(){
-
-    let mut person: (&str, &str, i8) = ("Chanakya","18",18);
-    person.0="brad";
-    println!("{}",person.0)
+//grouping together number of values of different types 
+    let tup:(i32,i32,f32)=(40,40,20.0);
+   println!("{}",tup.2)
 }

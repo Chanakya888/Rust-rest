@@ -1,5 +1,5 @@
 pub fn run(){
-    let name ="chanakya";
-let bool=true ;
-    println!("{:?}",(name,bool))
+    let x:i32 = 234;
+    
+    println!("valie of x {}",x)
 }
